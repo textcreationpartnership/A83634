@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act of the Commons of England in Parliament assembled, for the relief, and imployment of the poor, and the punishing of vagrants and other disorderly persons, within the City of London and liberties thereof Whereby is constituted a corporation, or body politick, consisting of a president, deputy, treasurer, and assistants for the due ordering and putting in execution the said Act.</title>
+            <title>Public General Acts. 1649-05-07</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83634</idno><idno type="EEBO-CITATION">99899709</idno>
+  <idno type="VID">134660</idno>
+  <idno type="EEBO-PROQUEST">2240858717</idno>
+  
+            <idno type="STC">Wing E2506B</idno>
+            <idno type="STC">ESTC R230991</idno>
+            <idno type="PROQUEST">99899709</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899709e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 134660)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2428:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act of the Commons of England in Parliament assembled, for the relief, and imployment of the poor, and the punishing of vagrants and other disorderly persons, within the City of London and liberties thereof Whereby is constituted a corporation, or body politick, consisting of a president, deputy, treasurer, and assistants for the due ordering and putting in execution the said Act.</title>
+                  <title>Public General Acts. 1649-05-07</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes printer to the honourable city of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Dr. Williams' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Poor laws --  England --  Early works to 1800.</term>
+               <term type="topical_term">Poor --  Employment --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Vagrancy --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Social conditions --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:134660:1"/>
+            <pb facs="tcp:134660:1"/>
+            <p> AN ACT OF THE Commons of England IN Parliament assembled; For the relief, and imployment of the Poor, and the punishing of Vagrants and other disorderly persons, within the City of <hi>London</hi> and Liberties thereof.</p>
+            <p>Whereby is constituted a Corporation, or Body Politick, consisting of a President, Deputy, Treasurer, and Assistants for the due ordering and putting in execution the said Act.</p>
+            <p>Printed by <hi>Richard Cotes</hi> Printer to the Honourable City of London, 1650.</p>
+            <pb facs="tcp:134660:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:134660:2"/>
+            <head>AN ACT FOR The Relief, and Imployment of the Poore, and the punishment of Vagrants, and other disorderly Persons, within the City of <hi>London</hi> and the Liberties thereof.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the necessity, num<g ref="char:EOLhyphen"/>ber, and increase of the Poore, is very great within the City of <hi>London,</hi> and Liberties thereof, for want of due provision, for their relief and imployment; <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d through neglect of the due execution of such Laws
+<pb n="2" facs="tcp:134660:3"/> and Statutes, as have beene formerly made; For remedy whereof, and for the better execution of the Lawes and Statutes hereto<g ref="char:EOLhyphen"/>fore made in this behalf, and for the further redresse of the mischiefs intended to bee hereby remedied; Bee it enacted; by this present Parliament, and by the authority of the same, and it is hereby enacted; That from henceforth, there bee and shall bee a Corporation within the said City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and Liberties thereof, consisting of a President, Deputy to the President, a Treasurer, and fifty eight Assistants, whereof the Lord Major of the said City, for the time being, to bee the President, and tenne of the said Assistants to bee of the Aldermen of the said City for the time being, and the other fifty to be Freemen of, and Inhabitants of the said City, chosen out of the severall Wards of the said City, two out of every Ward respectively; And that Sir <hi>John Wollaston, Isaac Pennington, Thomas Atkin, Thomas <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndrews, Samuell Avery, John Bide, Tho<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>er, Rowland Wilson, Chri<g ref="char:EOLhyphen"/>stopher <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> John Dethick,</hi> Aldermen
+<pb n="3" facs="tcp:134660:3"/> of the said City, shall bee the first tenne Aldermen of the present Assistants, and that <hi>Francis Waterhouse</hi> shall be the present Deputy to the President, and that <hi>Maurice Gething,</hi> shall bee the present Treasurer, and that <hi>James Russell, Richard Glyd, William Jeston, Tempest Milner, William Kendall, Toby Lisle, Edmund Whitwell, John Cock, Robert Mead, William Bromwich, John Everett, John Jones, John Bellamy, John Babington, Richard Garforth, Robert Tichbourne, John Perrin, Thomas Bromfield, Samuel Moyer, Dierich Host, Richard Coysh, Nicholas Cor<g ref="char:EOLhyphen"/>sellis, William Pennoyer, Christopher Loaves, Lawrence Steel, Richard Floyde, Thomas Jenner, Lawrence Brinley, Rice Bush, Thomas White, Benjamin Blundell, Thomas Dawney, Abraham Babington, Jacob Iurin, Edward Odling, Thomas Britwell, Iames Story, Iohn Berriford, William Wyberd, Richard Waring, Iohn Dodd, VValter Lee, Harman Sheaf, Iohn Fletcher, Owen Rowe, Mark Hilsley, Iohn Stone,</hi> and <hi>Clement Ireton,</hi> City<g ref="char:EOLhyphen"/>zens of <hi>London,</hi> shall be the other Assistants, and that the succeeding Deputy, and
+<pb n="4" facs="tcp:134660:4"/> Treasurer shall from henceforth, and from time to time bee Eligible by the said Cor<g ref="char:EOLhyphen"/>poration, or any seven, or more of them, yearly on the five and twentieth day of <hi>June,</hi> or within twenty eight dayes then next following, and shall have hereby power and authority, and are hereby authorised at any time or times, upon just and reasonable cause, to amove the said Deputy, and Treasurer for the time being, or either of them from their places; And upon such removall, or death of them, or either of them to elect one other Deputy, and Treasurer, or either of them into the said place, or places respectively; And that such five of the tenne Aldermen (being Assistants) as the Common-councell of the City of <hi>London</hi> think fit, shall fall off, or be amoved yearely, on the said five and twen<g ref="char:EOLhyphen"/>tyeth day of <hi>Iune,</hi> or within twenty eight dayes after; And that other five Aldermen shall bee yearly elected, by the said Com<g ref="char:EOLhyphen"/>mon-councell, on the day and time afore<g ref="char:EOLhyphen"/>said, to bee Assistants in the place of such as shall so fall off, or bee amoved; And that
+<pb n="5" facs="tcp:134660:4"/> such five and twenty of the other assistants, as the several Wards respectively shall think fit, shall likewise fall off, or bee amoved yearly on the said five and twentyeth day of <hi>June,</hi> or within twenty eight dayes after; and that five and twenty other per<g ref="char:EOLhyphen"/>sons, shall bee yearly elected within the time aforesaid by the Inhabitants of every Ward respectively, to bee Assistants in the places of such as shall dye, or bee amoved as aforesaid; And that the first choice of all the said Assistants shall bee made upon the five and twentyeth day of <hi>June,</hi> in the year of our Lord God 1650. or within twenty eight dayes then next following. And it is further enacted, by the authority afore<g ref="char:EOLhyphen"/>said; That the said President, Deputy, Treasurer, and Assistants for the time be<g ref="char:EOLhyphen"/>ing shall for ever hereafter, in name and fact, bee one Body Politique, and Corporate in Law, to all intents and perposes, and shall have a perpetuall Succession, and shall bee called by the name of the President, and Governours, for the Poore of the City of <hi>London,</hi> and Liberties thereof, and sue or
+<pb n="6" facs="tcp:134660:5"/> plead, or bee sued and impleaded by the name aforesaid, in all Courts and places of Iudicature within this Nation; And by that name shall and may without Li<g ref="char:EOLhyphen"/>cense in Mortmaine purchase, or receive any Lands, or Tenements, Hereditaments, not exceeding the yearly value of two thousand pounds of the Gift, Alienation, or devise of any person or persons, who are hereby without further License, enabled to give the same, and any Goods, Chattels; or summes of Money, whatsoever, to the use, intent, and purpose, hereafter limited, and appointed; And the said Corporation, or any seven of them shall have hereby power, and authority from time to time, to meete and keepe Courts, for the ends and purposes in this Act ex<g ref="char:EOLhyphen"/>pressed, at such time and place, as shall bee appointed by the said President, or his Deputy, who are hereby required upon desire of any foure of the said Corpo<g ref="char:EOLhyphen"/>ration, at any time to cause a Court to bee warned accordingly; And shall have hereby authority from time to time, to
+<pb n="7" facs="tcp:134660:5"/> make, and appoint a Common Seale for the use of the said Corporation. And it is further enacted by the authority a<g ref="char:EOLhyphen"/>foresaid; That it is, and shall bee lawfull to, and for the said President and Govern<g ref="char:EOLhyphen"/>ours of the said Corporation, for the time being, or any two of them, from time to time, to apprehend, or cause to bee apprehended, any Rogues, Vagrants, Sturdy Beggers, idle, and disorderly persons within the said City, and Liberties, and to cause them to bee set and kept to work; And such of them as by any former Sta<g ref="char:EOLhyphen"/>tute, are declared to bee Rogues, to bee duly punished by putting in the Stocks, or whipping, as they shall finde cause; And shall also have power to dispose of them to their places of birth, or last a<g ref="char:EOLhyphen"/>bode, as the case, according to the Laws and Statutes in that case provided shall require; And also that it shall bee law<g ref="char:EOLhyphen"/>full for the said President, and Govern<g ref="char:EOLhyphen"/>ours, or any two them, to apprehend, or cause to bee apprehended, and kept
+<pb n="8" facs="tcp:134660:6"/> at work. All such other Poore persons, and Bastard children, and other Poore children able to worke, and inhabiting within the said City and Liberties, who are chargeable to any Parish, or have not sufficient to maintaine themselves; and in case of their refusall so to work; That then it shall and may be lawfull, to and for the said President, and Governours, or any seven of them to punish, or cause to bee punished as Vagrants, such persons so refusing to work; And bee it further enacted by the authority aforesaid, as well for the purposes aforesaid, as for the better execution of Justice within the said City and Liberties, That all and every the Aldermen of the said City, which hath performed and passed, or that hereafter performe and passe the Office of Sheriffe of <hi>London,</hi> at the end of his, and their Sherivalty, and during such time as hee and they shall continue Alderman, taking the Oath of a Justice of Peace ap<g ref="char:EOLhyphen"/>pointed by Parliament, which the Major,
+<pb n="9" facs="tcp:134660:6"/> Recorder, or either of them, hereby have power to administer unto them, shall bee hereby a Justice of Peace to all intents and purposes whatsoever; and shall and may from henceforth doe and execute ac<g ref="char:EOLhyphen"/>cordingly within the said City and Li<g ref="char:EOLhyphen"/>berties thereof without any other Com<g ref="char:EOLhyphen"/>mission, any Law, Statute, Custome, or Usage in any wise to the contrary not<g ref="char:EOLhyphen"/>withstanding. Provided alwayes, That no Sessions of the Peace shall bee holden, and kept within the said City and Liber<g ref="char:EOLhyphen"/>ties, without the presence, or appoint<g ref="char:EOLhyphen"/>ment of the Major, or Recorder, and the presence of three, or more of other Justices of Peace of the said City for the time being. And bee it further enacted by the authority aforesaid, That in regard of the great inequality of the ordering, and relieving of the Poore through the different abilities of the severall and re<g ref="char:EOLhyphen"/>spective Wards, in the City of <hi>London,</hi> and Liberties thereof, The said Corpora<g ref="char:EOLhyphen"/>tion or any seven of them, shall bee hereby
+<pb n="10" facs="tcp:134660:7"/> authorised with consent of the Com<g ref="char:EOLhyphen"/>mon-Councell of the said City, to divide the severall Wards with the Poore, and Stock to them belonging, into foure e<g ref="char:EOLhyphen"/>quall parts and proportions, for the more effectuall and indifferent reliefe of the Poore, and the avoiding future differen<g ref="char:EOLhyphen"/>ces, and dissentions betweene the rich and poore Parishes. And it is enacted by the authority aforesaid, for the better reliefe of impotent aged persons, and others not able to worke, and fit to bee relieved, and for the imploying of the other Poore as a<g ref="char:EOLhyphen"/>foresaid, within the said City and Liberties, and providing all things for the execution of the work, intended by this Act; That if the said President and Governours shall certifie their want and defect, either of a present stock for the foundation thereof, or for supply thereof for the future, and what summe and summes of Money they thinke fit for the same under their Com<g ref="char:EOLhyphen"/>mon Seale to the Common-Councell of the said City, That thereupon the said
+<pb n="11" facs="tcp:134660:7"/> Common-councell are hereby authori<g ref="char:EOLhyphen"/>sed and required from time to time to set downe and ascertaine such competent summe or summes of Money for the pur<g ref="char:EOLhyphen"/>poses aforesaid, and the same to propor<g ref="char:EOLhyphen"/>tion out upon the severall Wards as they shall thinke fit; And that thereupon the Aldermen, Deputy, and Common-coun<g ref="char:EOLhyphen"/>cell ment of euery Ward, or the greater number of them, shall have power and au<g ref="char:EOLhyphen"/>thority, and are hereby required equally and indifferently, according to pro<g ref="char:EOLhyphen"/>portion appointed for the severall Wards as aforesaid, to taxe and rate the severall Inhabitants within the said respective VVards: with which taxe, if any person or persons, shall finde him, or themselves grieved, as supposing the same to bee un<g ref="char:EOLhyphen"/>equall, hee and they shall, and may make their complaint knowne to the Justices of the Peace, at the next open Sessions, who shall take such finall order therein, as in like cases is already by the Law provided. And it is further enacted by the authority afore<g ref="char:EOLhyphen"/>said,
+<pb n="12" facs="tcp:134660:8"/> That it shall, and may bee lawfull to, and for the said President and Gover<g ref="char:EOLhyphen"/>nours upon taxations, and distributions made as aforesaid, the same being made knowne to them by the said Aldermen, or Deputy of the said severall Wards by their Certificate in writing under their hands, to make Warrants under the hands of them, or any two of them, to bee directed to any one, or more of their Officers, to demand, gather and receive, of every per<g ref="char:EOLhyphen"/>son and persons, such summe and summes of Money, as shall bee assessed upon them, by vertue of the Taxations and Contri<g ref="char:EOLhyphen"/>butions aforesaid; And for default of payment within tenne dayes after demand made thereof, or notice in writing left at the dwelling house, or lodging of every person so assessed to leavy the same by distresse and sale of the goods of every such person, and after satisfaction made, to re<g ref="char:EOLhyphen"/>store the surplusage to the party so di<g ref="char:EOLhyphen"/>strained. And it is further enacted by the authority aforesaid; That the aforesaid
+<pb n="13" facs="tcp:134660:8"/> Corporation or any seven persons, Mem<g ref="char:EOLhyphen"/>bers thereof, or the said Deputy and Trea<g ref="char:EOLhyphen"/>surer (for the time being) or one of them together with one or more of the Alder<g ref="char:EOLhyphen"/>men of the said City, Members of the said Corporation, shall and may within the said City and Liberties doe and execute in every respect for the better carrying on of this worke, such thing, or things, Act, or Acts, as is allowed and appointed by any Law, or Statute, to bee done and executed by any one, or more Justice, or Justices of Peace of the said City, or of any County within this Realme, for and concerning the reliefe and imploy<g ref="char:EOLhyphen"/>ment of the Poore, and the punishment of Vagrants, and other disorderly per<g ref="char:EOLhyphen"/>sons, and the setting and keeping them to worke within the said City, and Liber<g ref="char:EOLhyphen"/>ties thereof; And to put in execution any Law or Statute, (now in force) touch<g ref="char:EOLhyphen"/>ing binding out poore children Appren<g ref="char:EOLhyphen"/>tices, for the relief of the Poore, punish<g ref="char:EOLhyphen"/>ing Rogues and Beggers; And for effect<g ref="char:EOLhyphen"/>ing
+<pb n="14" facs="tcp:134660:9"/> the remedies hereby intended. And it is enacted by the authority aforesaid, That the said President and Governours, or any seven of them, shall have power from time to time, to make and constitute Orders and By-laws, for the better relieving, regulating, and set<g ref="char:EOLhyphen"/>ting the poor on work, and the apprehen<g ref="char:EOLhyphen"/>ding and punishing of rogues, vagabonds, and Beggers within the said City and Liberties, that have not herewith honestly to maintain themselves, and for other the matters afore<g ref="char:EOLhyphen"/>said; Provided, the said Orders and By-Laws shall from time to time, be presented to, and allowed by the Common councell of the said City, &amp; by three, or more of the Justices of the upper Bench, common Pleas, and Ba<g ref="char:EOLhyphen"/>rons of the Exchequer. And it is further en<g ref="char:EOLhyphen"/>acted by the authority aforesaid; That the Treasurer of the said Corporation, for the time being, shall once in every year yearly, between the four and twentyeth of <hi>June,</hi> and the nine and twentyeth of <hi>September,</hi> or oftner, if need require, give a true and perfect accompt in writing of all the re<g ref="char:EOLhyphen"/>ceipts,
+<pb n="15" facs="tcp:134660:9"/> charges, and disbursements in, and a<g ref="char:EOLhyphen"/>bout the premises unto the Auditors, for the time being, appointed for taking the Ac<g ref="char:EOLhyphen"/>compts of the Chamberlain, and Bridgema<g ref="char:EOLhyphen"/>sters of the said City, and the said Accompt to remain in the custody of the Chamberlain of the said City; And it is enacted by the authority aforesaid, That an Ordinance made this present Parliament the seventeenth day of <hi>December,</hi> 1647. and every clause, and thing therin contained concerning any pro<g ref="char:EOLhyphen"/>vision and releaf for the Poor of <hi>London,</hi> and the Liberties thereof, bee and are hereby made Null and repealed; And it is en<g ref="char:EOLhyphen"/>acted by the authority aforesaid, That it shall and may bee lawfull to and for the said President and Governours, or seven of them, to make enquiry for, and after any charitable gift, or grant heretofore given and appointed, or hereafter to be given and appointed to, and for the main<g ref="char:EOLhyphen"/>tenance &amp; relief of the Poor within the said City and Liberties thereof, and to act and proceed thereupon for discovering and re<g ref="char:EOLhyphen"/>forming the misimployment thereof, in such
+<pb n="16" facs="tcp:134660:10"/> manner as any Commissioners for charitable uses, may doe by vertue of the Satute of 43. <hi>Eliz. Chap.</hi> 4. And that the said Presi<g ref="char:EOLhyphen"/>dent and Governours shall, and may by themselves, or such as they shall appoint under their Common Seal, freely, and with<g ref="char:EOLhyphen"/>out fees search in any Courts, or Offices for any Records, or evidences, for the disco<g ref="char:EOLhyphen"/>very of any matter or thing concerning the same, And it is further enacted, That the said President and Governors, or any twen<g ref="char:EOLhyphen"/>ty, or more of them, being assembled toge<g ref="char:EOLhyphen"/>ther, shall have hereby power to chose, and entertaine al such Officers and others, as shall bee needfull to be imployed in, and a<g ref="char:EOLhyphen"/>bout the premises, and them, or any of them from time to time to remove, as they shall see cause; And upon the death or removall of them, or any of them to choose others in their places for the carrying on of this work, and to make, and give such reasonable allowances unto them, or any of them, out of the stock and revenue belonging to the said corporation, as they shall think fit; and it is enacted by the authority aforesaid, for the further releaf, &amp; imploying of the said poor,
+<pb n="17" facs="tcp:134660:10"/> with in the said City and Liberties thereof, That the said President and Governors, or any seven of them shal have hereby pow<g ref="char:EOLhyphen"/>er to erect one or more work-house or work-houses for receiving, relieving, &amp; set<g ref="char:EOLhyphen"/>ting the poor to work, &amp; one or more house or houses of Correction, as they shal think fit, for punishing of Rogues, Vagabonds, &amp; beg<g ref="char:EOLhyphen"/>gers; And it is further enacted by the autho<g ref="char:EOLhyphen"/>rity aforesaid, that if upon any action, suit or plaint, to be commenced, or prosecuted by a<g ref="char:EOLhyphen"/>ny person or persons, in any Court whatsoe<g ref="char:EOLhyphen"/>ver, agianst the said President &amp; Governors, any of the said Justices of the Peace hereby authorised, or any of them, or any person or persons, for doing, or executing any thing by their, or any of their Order, Warrant, com<g ref="char:EOLhyphen"/>mand, or direction, or coming into their, or any of their aid, or assistance, in, about, or con<g ref="char:EOLhyphen"/>cerning the premises, the Defendant or De<g ref="char:EOLhyphen"/>fendants may plead the generall issue of not guilty, and shall &amp; may give the speciall mat<g ref="char:EOLhyphen"/>ter in evidence, and if upon triall of the cause, it shall appear the said defendant, or defendants, did act or doe the matter in que<g ref="char:EOLhyphen"/>stion by vertue of this Act, or that the
+<pb n="18" facs="tcp:134660:11"/> matter of fact whereupon the issue is joined, was done in any other county, then where the same fact is laid to be done, That in such case the Jury that shall try the same, shal find the defendant, or defendants in every such action, plaint, or suit, not guilty; And if in a<g ref="char:EOLhyphen"/>ny action, plaint, or suit, the plaintiffe or plaintiffs become non suit, or suffer any dis<g ref="char:EOLhyphen"/>continuance thereof, or verdict shall pass a<g ref="char:EOLhyphen"/>gainst him, or them; that in every the said cases, the defendant, or defendants shall have double costs, and all other advantages &amp; re<g ref="char:EOLhyphen"/>medies, as in other cases where costs by the Laws of this Realm are given to defendants; And it is further enacted by the authority a<g ref="char:EOLhyphen"/>foresaid that all Sheriffs, Baylyffs Consta<g ref="char:EOLhyphen"/>bles and all other Officers, and Ministers of Justice, shall be aiding and assisting to the said Corporation, or any of them, and unto all such Officers as shal be imployed by them for the better executing, &amp; performance of the said service.</p>
+            <closer>
+               <signed>H. Scobell, Cleric. Parliament.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <head>
+               <hi>Die Lunae,</hi> 7. <hi>Maij,</hi> 1649.</head>
+            <p>ORdered by the Commons assembled in Parliament, that this Act be forthwith Printed and published.</p>
+            <closer>
+               <signed>Hen. Scobell, Cler. Parliament.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
